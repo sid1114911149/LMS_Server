@@ -1,3 +1,9 @@
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
+![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?logo=mongodb)
+![License](https://img.shields.io/badge/License-MIT-blue)
 # 🚀 Learning Management System (LMS) Backend
 
 A scalable and secure backend API for a Learning Management System (LMS) built using the MERN Stack. This backend provides authentication, role-based access control, course management, enrollment tracking, lecture management, and administrative functionalities.
